@@ -2,7 +2,7 @@
 
 # API Django REST Framework Corretora
 
-API que simula uma corretora de investimentos, podendo o client:
+API que simula uma corretora de investimentos, permitindo ao client:
  * Cadastrar um ativo nas modalidades de renda fixa, renda variável e cripto moedas e seu preço de mercado;
  * Realizar uma aplicação ou resgate de um ativo;
  * Consultar saldo de investimentos, calculado atráves das movimentações de aplicações e regate;
