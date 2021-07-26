@@ -1,9 +1,7 @@
 [<img src="https://img.shields.io/badge/author-Lucas Faria-yellow?style=flat-square"/>](https://github.com/LucasAlbFar)
 
 # API Django REST Framework Corretora
-API Django REST Framework.
 
-## Resumo:
 API que simula uma corretora de investimentos, podendo o client:
  * Cadastrar um ativo nas modalidades de renda fixa, renda variável e cripto moedas e seu preço de mercado;
  * Realizar uma aplicação ou resgate de um ativo;
