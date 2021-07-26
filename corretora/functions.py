@@ -176,6 +176,9 @@ def verificar_carteira(request: object):
 
 
 def atualizar_carteira(item: list, dict_carteira: dict):
+    """
+    Atualizar dados da requisição para visualizar a carteira de ativos do cliente
+    """
     if tipo_aplicacao(item.tipo_transacao):
         dict_carteira[item.ativo]['valor_negociado'] = item.valor_unitario
         dict_carteira[item.ativo]['quantidade'] = dict_carteira[item.ativo]['quantidade'] + \
@@ -199,6 +202,9 @@ def inserir_novo_ativo_carteira(preco_mercado: float, item: list, dict_carteira:
 
 
 def ativo_no_dicionario(ativo: str, dict_carteira: dict):
+    """
+    Varificar se o ativo está na carteira de investimentos do cliente
+    """
     return ativo in dict_carteira
 
 
