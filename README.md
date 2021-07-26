@@ -1,5 +1,6 @@
 # API Django REST Framework Corretora
 Projeto desenvolvido para aplicar os conhecimentos do Django REST Framework.
+[<img src="https://img.shields.io/badge/author-Lucas-yellow?style=flat-square"/>](https://github.com/LucasAlbFar)
 
 ## Resumo:
 API que simula uma corretora de investimentos, podendo o client:
