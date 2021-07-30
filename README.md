@@ -22,6 +22,8 @@ API que simula uma corretora de investimentos, permitindo ao client:
 ## Informações de ambiente:
 requirements.txt
 
+-> [requirements.txt](https://github.com/LucasAlbFar/Django_REST_FRAMEWORK_API_Corretora/blob/main/requirements.txt) <-
+
 ## Contato:
 [<img src="https://img.shields.io/badge/LucasFaria-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasalbfar/)
 [<img src="https://img.shields.io/badge/lucasalbfar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:lucasalbfarw@gmail.com)
