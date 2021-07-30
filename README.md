@@ -20,9 +20,7 @@ API que simula uma corretora de investimentos, permitindo ao client:
 * /redoc/ -> documentação da API 
 
 ## Informações de ambiente:
-* Django==3.2.5
-* django-filter==2.4.0
-* djangorestframework==3.12.4
+requirements.txt
 
 ## Contato:
 [<img src="https://img.shields.io/badge/LucasFaria-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasalbfar/)
